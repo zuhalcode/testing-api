@@ -3,6 +3,6 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class UserService {
   findAll() {
-    return 'Hello World adding prisma and user';
+    return 'Hello World adding prisma and user enable cors';
   }
 }
